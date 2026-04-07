@@ -1,7 +1,11 @@
 aid: pc-connection
-url: https://raw.githubusercontent.com/api-evangelist/pc-connection/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/pc-connection/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.pc-connection.com
+description: >-
+  PC Connection (now Connection) is a leading IT solutions provider to business, government,
+  healthcare, and education markets, offering technology products and services.
