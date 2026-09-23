@@ -1,7 +1,9 @@
 ---
 title: Artificial Intelligence
 url: https://www.connection.com/solutions-services/artificial-intelligence?srsltid=AfmBOor5eD_nU3YiYqFtZoo8Fq_fTvTT94mnMdGFuA2pVQ_pe2RIma0o
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PC Connection" press release artificial intelligence'
 position: 5
 source: serpapi-google

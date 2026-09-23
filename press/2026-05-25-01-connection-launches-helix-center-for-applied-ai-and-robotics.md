@@ -1,7 +1,9 @@
 ---
 title: Connection Launches Helix Center for Applied AI and Robotics
 url: https://ir.connection.com/news-releases/news-release-details/connection-launches-helix-center-applied-ai-and-robotics
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PC Connection" press release artificial intelligence'
 position: 1
 source: serpapi-google

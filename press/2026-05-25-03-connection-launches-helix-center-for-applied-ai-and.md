@@ -1,7 +1,9 @@
 ---
 title: Connection Launches Helix Center for Applied AI and ...
 url: https://www.businesswire.com/news/home/20231214409898/en/Connection-Launches-Helix-Center-for-Applied-AI-and-Robotics
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PC Connection" press release artificial intelligence'
 position: 3
 source: serpapi-google
